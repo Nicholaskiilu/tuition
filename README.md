@@ -1,2 +1,1 @@
-# tuition
-coding
+index.html
